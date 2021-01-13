@@ -14,3 +14,24 @@ Skills:
 - Experimental design and analysis (A/B testing, switchback testing, synthetic control), demand estimation, cohort and funnel analyses, conjoint analysis, difference in differences, regression discontinuity design, propensity score matching, and other advanced econometrics and machine learning techniques. 
 
 <img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/>
+
+<h3>Repositories</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Yandex Data Science</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	
+  </tbody>
+</table>
