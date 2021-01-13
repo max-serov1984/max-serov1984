@@ -31,6 +31,12 @@ Skills:
       <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
+<tr>
+      <td><a href="https://github.com/akylson/kaggle-competitions"><b>Kaggle Competitions</b></a></td>
+      <td><a href="https://github.com/akylson/kaggle-competitions/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/kaggle-competitions?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/kaggle-competitions/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/kaggle-competitions?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/kaggle-competitions/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/kaggle-competitions?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
 	
   </tbody>
 </table>
