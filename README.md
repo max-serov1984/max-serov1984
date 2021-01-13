@@ -13,9 +13,8 @@ Skills:
 - Utilize analytical applications to identify trends and relationships between different pieces of data.
 - Experimental design and analysis (A/B testing, switchback testing, synthetic control), demand estimation, cohort and funnel analyses, conjoint analysis, difference in differences, regression discontinuity design, propensity score matching, and other advanced econometrics and machine learning techniques. 
 
-<img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/>
 
-<h3>Repositories</h3>
+<h3>My Repositories</h3>
 <table>
   <thead align="center">
     <tr border: none;>
