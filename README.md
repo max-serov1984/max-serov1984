@@ -15,7 +15,7 @@ Skills:
 
 
 <h3>My Repositories</h3>
-<table>
+<table width=100%>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -27,9 +27,9 @@ Skills:
   <tbody>
     <tr>
       <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex Data Science</b></a></td>
-      <td><a href="#"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="#"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="#"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
 	
   </tbody>
