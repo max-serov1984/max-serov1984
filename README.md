@@ -12,3 +12,5 @@ Skills:
 - Design and implement statistical / predictive models and algorithms utilizing diverse sources of data to predict demand, risk and price elasticity.
 - Utilize analytical applications to identify trends and relationships between different pieces of data.
 - Experimental design and analysis (A/B testing, switchback testing, synthetic control), demand estimation, cohort and funnel analyses, conjoint analysis, difference in differences, regression discontinuity design, propensity score matching, and other advanced econometrics and machine learning techniques. 
+
+<img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/>
