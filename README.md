@@ -33,7 +33,7 @@ Skills:
     </tr>
 	  
 <tr>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Real-time Sign-language Detection</b></a></td>
+      <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Real-Time Sign-Language Detection</b></a></td>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
