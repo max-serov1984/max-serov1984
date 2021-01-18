@@ -14,6 +14,10 @@ Skills:
 - Experimental design and analysis (A/B testing, switchback testing, synthetic control), demand estimation, cohort and funnel analyses, conjoint analysis, difference in differences, regression discontinuity design, propensity score matching, and other advanced econometrics and machine learning techniques. 
 
 
+## in case you are wondering i'am currently open to new roles. 
+\#opentowork \#data-science
+
+
 <h3>My Repositories</h3>
 <table width=100%>
   <thead align="center">
