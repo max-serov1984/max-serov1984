@@ -37,7 +37,13 @@ Skills:
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
 </tr>
-	  
+	
+<tr>
+      <td><a href="https://github.com/akylson/simple_face_detection"><b>Simple Face-Detection with OpenCV</b></a></td>
+      <td><a href="https://github.com/akylson/simple_face_detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/simple_face_detection/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/simple_face_detection/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
+</tr>
 	  
 <tr>
       <td><a href="https://github.com/akylson/kaggle-competitions"><b>Kaggle Competitions</b></a></td>
