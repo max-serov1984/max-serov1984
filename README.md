@@ -17,7 +17,7 @@ Skills:
 
 
 ![Akylson GitHub Stats](https://github-readme-stats.vercel.app/api?username=akylson&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akylson&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akylson&count_private=true&hide=tsql&langs_count=7&theme=radical)
 
 
 <h3>My Repositories</h3>
