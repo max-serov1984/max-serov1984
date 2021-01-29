@@ -16,7 +16,8 @@ Skills:
 - Experimental design and analysis (A/B testing, switchback testing, synthetic control), demand estimation, cohort and funnel analyses, conjoint analysis, difference in differences, regression discontinuity design, propensity score matching, and other advanced econometrics and machine learning techniques. 
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=akylson)
+![Akylson GitHub Stats](https://github-readme-stats.vercel.app/api?username=akylson&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akylson&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 
 <h3>My Repositories</h3>
