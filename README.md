@@ -29,7 +29,18 @@ Skills:
   </thead>
   <tbody>
 
-	  
+
+
+<tr>
+      <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Iris-Prediction-with-Django</b></a></td>
+      <td><a href="https://github.com/akylson/iris-prediction-with-django/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/iris-prediction-with-django/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/iris-prediction-with-django/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
+</tr>
+
+
+
+
 <tr>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Real-Time Sign-Language Detection</b></a></td>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
