@@ -19,7 +19,16 @@ I am IT professional with more than 10 years of experience in Information Techno
   <tbody>
 
 
+<tr>
+      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Terraform AWS Projects</b></a></td>
+      <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/Terraform_Projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/Terraform_Projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+</tr>
 
+	  
+	  
+	  
 <tr>
       <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Iris-Prediction-with-Django</b></a></td>
       <td><a href="https://github.com/akylson/iris-prediction-with-django/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
