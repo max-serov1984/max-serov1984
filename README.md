@@ -7,6 +7,7 @@ I am IT professional with more than 10 years of experience in Information Techno
 
 
 <h3>My Repositories</h3>
+
 <table width=100%>
   <thead align="center">
     <tr border: none;>
@@ -53,7 +54,7 @@ I am IT professional with more than 10 years of experience in Information Techno
       <td><a href="https://github.com/akylson/simple_face_detection/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
 </tr>
 	  
-<tr>
+	<tr>
       <td><a href="https://github.com/akylson/kaggle-competitions"><b>Kaggle Competitions</b></a></td>
       <td><a href="https://github.com/akylson/kaggle-competitions/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/kaggle-competitions?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/kaggle-competitions/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/kaggle-competitions?style=flat-square&labelColor=343b41"/></a></td>
